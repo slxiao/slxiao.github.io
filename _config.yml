@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Dr. Shiliang Xiao's Homepage
+tagline:          ''
+description:      'This is the homepage of Dr. <a href="http://www.scholat.com/~slxiao" target="_blank">Shiliang Xiao</a>'
 url:              http://slxiao.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Shiliang Xiao'
+  url:            https://slxiao.github.io
 
 paginate:         5
 
