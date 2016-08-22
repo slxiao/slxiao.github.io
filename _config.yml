@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Dr. Shiliang Xiao's Homepage
+title:            ''
 tagline:          ''
-description:      'This is the homepage of Dr. <a href="http://www.scholat.com/~slxiao" target="_blank">Shiliang Xiao</a>'
+description:      'This is the homepage of Dr. Shiliang Xiao'
 url:              http://slxiao.github.io
 baseurl:          /
 
