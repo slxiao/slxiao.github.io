@@ -19,3 +19,4 @@ Email: shliangxiao@gmail.com OR shiliang.xiao@nokia.com
 
 Mobile phone: +86-13757106997
 
+[Google Scholar](https://scholar.google.com/citations?user=EnV-zfIAAAAJ&hl=en) | [DBLP](http://dblp.uni-trier.de/pers/hd/x/Xiao:Shiliang) |  [LinkedIn](https://www.linkedin.com/in/shiliang-xiao-82728589)

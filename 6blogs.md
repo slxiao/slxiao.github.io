@@ -2,5 +2,7 @@
 layout: page
 title: Blogs 
 ---
+***
+[My CSDN Blog](http://blog.csdn.net/zjuxsl)
 
-T.B.D.
+[My Github](https://github.com/slxiao)
