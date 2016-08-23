@@ -1,6 +1,6 @@
 ***
 
-![Dr. Xiao Shiliang's Homepage](imgs/personal.jpg =200*300)
+![Dr. Xiao Shiliang's Homepage](../imgs/personal.jpg =200*300)
 
 Hello, welcome to my homepage.
 
