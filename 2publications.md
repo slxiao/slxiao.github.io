@@ -41,19 +41,19 @@ Communications and Networking*, vol. 7, no. 1, 2014.
  Sub-Nyquist Sampling", *Wireless Personal Communications*, 84 (2), 919-933
  
  Patents
- ----------------------
- ----------------------
- * S. Xiao, X. Cheng, G. Wu, and etc. “Semi-structured transmission scheduling method for data
+------------
+------------
+ [1] **S. Xiao**, X. Cheng, G. Wu, and etc. “Semi-structured transmission scheduling method for data
 gathering in wireless sensor networks” (in Chinese), No. 201410550746.x.
 
- * Y. Cheng, S. Xiao, H. Qian, and etc. “A novel method for connecting wireless multimedia
+ [2] Y. Cheng, **S. Xiao**, H. Qian, and etc. “A novel method for connecting wireless multimedia
 sensor networks and IP networks” (in Chinese), No. 201410486749.1.
 
- * L. Pan, S. Xiao, L. Zhao, and etc. “Multi-channel compressive sampling based method for
+ [3] L. Pan, **S. Xiao**, L. Zhao, and etc. “Multi-channel compressive sampling based method for
 broadband power spectrum estimation” (in Chinese), No. 2014103905674.
 
- * L. Pan, S. Xiao, J. Liu, and etc. “Sub-Nyquist sampling based for broadband signal detection
+ [4] L. Pan, **S. Xiao**, J. Liu, and etc. “Sub-Nyquist sampling based for broadband signal detection
 and recognition” (in Chinese), No. 201410466563x.
 
- * Y. Qiu, W. Qin, S. Xiao, and etc. “Devices and systems for pulse monitoring” (in Chinese), No.
+ [5] Y. Qiu, W. Qin, **S. Xiao**, and etc. “Devices and systems for pulse monitoring” (in Chinese), No.
 201320287409.7.
