@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications 
+title: Publications
 ---
-
+***
 Journal Papers
 -------------
 -------------
@@ -30,16 +30,16 @@ and Networking*.
 Reduction in OFDM-based Cognitive Radio System”, *International Journal of Future Generation
 Communications and Networking*, vol. 7, no. 1, 2014.
 
- [7] **S. Xiao**, B. Li, and X. Yuan. Maximizing Precision for Energy-Efficient Data 
+ [7] **S. Xiao**, B. Li, and X. Yuan. Maximizing Precision for Energy-Efficient Data
  Aggregation in Wireless Sensor Networks with Lossy Links.  *Ad Hoc Networks*, Vol. 26, Mar. 2015, pp. 103-113.
 
- [8] J Huang, **S Xiao**, Q Zhou, F Guo, X You, H Li, B Li. "A Robust Feature Extraction Algorithm for the 
- Classification of Acoustic Targets in Wild Environments", *Circuits, Systems, 
+ [8] J Huang, **S Xiao**, Q Zhou, F Guo, X You, H Li, B Li. "A Robust Feature Extraction Algorithm for the
+ Classification of Acoustic Targets in Wild Environments", *Circuits, Systems,
  and Signal Processing*, 34 (7), 2395-2406
- 
- [9] L Pan, **S Xiao**, X Yuan. "Wideband Power Spectrum Sensing for Cognitive Radios Based on 
+
+ [9] L Pan, **S Xiao**, X Yuan. "Wideband Power Spectrum Sensing for Cognitive Radios Based on
  Sub-Nyquist Sampling", *Wireless Personal Communications*, 84 (2), 919-933
- 
+
  Patents
 ------------
 ------------
