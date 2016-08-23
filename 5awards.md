@@ -6,7 +6,7 @@ title: Awards
 Membership
 -----------------
 
-National Scholarship 2014-2015
+National Scholarship <h1 style="text-align:right">2014-2015 <h1>
 
 Merit Student in University of Chinese Academy of Sciences 2013-2014
 
