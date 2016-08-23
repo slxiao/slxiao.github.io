@@ -5,7 +5,7 @@ title: Publications
 ***
 Journal Papers
 -------------
--------------
+
  [1]. **S. Xiao**, J. Huang, L. Pan, Y. Cheng, and J. Liu, “On centralized and distributed algorithms for
 minimizing data aggregation time in duty-cycled wireless sensor networks”, *ACM/Springer Wireless
 Networks**, vol. 20, no. 7, pp. 1729-1741, 2014.
@@ -42,7 +42,7 @@ Communications and Networking*, vol. 7, no. 1, 2014.
 
  Patents
 ------------
-------------
+
  [1] **S. Xiao**, X. Cheng, G. Wu, and etc. “Semi-structured transmission scheduling method for data
 gathering in wireless sensor networks” (in Chinese), No. 201410550746.x.
 
