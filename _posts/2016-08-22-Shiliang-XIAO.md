@@ -8,5 +8,14 @@ My research directions include 4G/5G wireless networks, Internet-of-Things, and 
 
 After graduation, I stepped into the industry, and joined [Nokia Shanghai Bell](http://company.nokia.com/en) as an TD-LTE R&D Engineer. In Nokia, I have been envolved in the integration of Nokia-ALu radio products and the automated regression/verification of Nokia's 17 radio SW builds. I am currently working towards network function virtualization. Specifically, we are devoted to migrate part of the M-plane functionalities of base stations to telco cloud so as to reserve more spatial/temporal resources for U-/C- planes and as a result improve the transport performance of next-generation wireless networks.
 
+Contacts
+------------------
 
+Xiao Shiliang
+
+No.567, Xin Cheng Road, Bin Jiang District, Hangzhou, China, 31000
+
+Email: shliangxiao@gmail.com OR shiliang.xiao@nokia.com
+
+Mobile phone: +86-13757106997
 
