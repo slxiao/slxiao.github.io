@@ -3,10 +3,8 @@ layout: page
 title: Awards 
 ---
 ***
-Membership
------------------
 
-National Scholarship <h1 style="text-align:right">2014-2015 <h1>
+National Scholarship 2014-2015
 
 Merit Student in University of Chinese Academy of Sciences 2013-2014
 
