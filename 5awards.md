@@ -4,7 +4,7 @@ title: Awards
 ---
 ***
 
-National Scholarship 2014-2015
+National Scholarship  2014-2015
 
 Merit Student in University of Chinese Academy of Sciences 2013-2014
 
