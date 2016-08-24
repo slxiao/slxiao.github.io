@@ -6,7 +6,7 @@ I received my Ph.D. degree at [Shanghai Institute of Microsystem and Information
 
 My research directions include 4G/5G wireless networks, Internet-of-Things, and networked systems design & applications.
 
-After graduation, I stepped into the industry, and joined [Nokia Shanghai Bell](http://company.nokia.com/en) as an TD-LTE R&D Engineer. In Nokia, I have been envolved in the integration of Nokia-ALu radio products and the automated regression/verification of Nokia's 17 radio SW builds. 
+After graduation, I stepped into the industry, and joined [Nokia Shanghai Bell](http://company.nokia.com/en) as an TD-LTE R&D Engineer. In Nokia, I have been envolved in the integration of Nokia-ALu radio products and the automated regression/verification of Nokia's 17 radio SW builds.
 
 I am currently working towards network function virtualization. Specifically, we are devoted to migrating part of the M-plane functionalities of BTUs to telco cloud so as to reserve more spatial/temporal resources for U-/C- plane operations and as a result, improve the transport performance of next-generation wireless networks.
 

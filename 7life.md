@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Life 
+title: Life
 ---
 ***
-My hometown is a beautiful village named [Ma Bu Tou](https://slxiao.github.io/presentations/MyHometownMabutou.pdf) located in Hongan County, Hubei Province, China.
+[我的家乡马埠头村](https://slxiao.github.io/presentations/MyHometownMabutou.pdf)
+
+[千岛湖自驾游记](http://club.autohome.com.cn/bbs/thread-o-200042-53263644-1.html)
