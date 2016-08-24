@@ -43,17 +43,16 @@ Communications and Networking*, vol. 7, no. 1, 2014.
  Patents
 ------------
 
- [1] **S. Xiao**, X. Cheng, G. Wu, and etc. “Semi-structured transmission scheduling method for data
-gathering in wireless sensor networks” (in Chinese), No. 201410550746.x.
+[1] 程小六, **肖世良**, 潘乐炳, 程勇博, 王艳, 张鑫, 袁晓兵. "一种微气象环境及物理信息实时监测通用平台". CN104181615B. 已授权, 2016.07
 
- [2] Y. Cheng, **S. Xiao**, H. Qian, and etc. “A novel method for connecting wireless multimedia
-sensor networks and IP networks” (in Chinese), No. 201410486749.1.
+[2] 潘乐炳, **肖世良**, 赵龙慧, 胡宁宁, 程小六, 黄景昌, 袁晓兵. "一种基于多通道压缩采样的宽带功率谱估计方法". CN104202098B. 已授权, 2016.06
 
- [3] L. Pan, **S. Xiao**, L. Zhao, and etc. “Multi-channel compressive sampling based method for
-broadband power spectrum estimation” (in Chinese), No. 2014103905674.
+[3] 邱云周, 秦文霞, **肖世良**, 裴俊, 谢东峰, 潘乐炳, 张家辉. "脉搏监控设备及系统". CN103239218B. 已授权, 2015.10
 
- [4] L. Pan, **S. Xiao**, J. Liu, and etc. “Sub-Nyquist sampling based for broadband signal detection
-and recognition” (in Chinese), No. 201410466563x.
+[4] **肖世良**, 程小六, 吴光, 胡宁宁, 陈昕韡, 付鹏程, 郑旗, 袁晓兵. "面向无线传感器网络数据收集的半结构化传输调度方法". CN104301966A. 已公布, 2015.01
 
- [5] Y. Qiu, W. Qin, **S. Xiao**, and etc. “Devices and systems for pulse monitoring” (in Chinese), No.
-201320287409.7.
+[5] 潘乐炳, **肖世良**, 刘建坡, 程勇博, 陈昕韡, 袁晓兵. "一种基于欠奈奎斯特采样的宽带信号检测识别方法". CN104270234A. 已公布, 2015.01
+
+[6] 程勇博, **肖世良**, 钱汉望, 陈昕韡, 潘乐炳, 刘建坡, 袁晓兵. "一种无线多媒体传感器网络接入IP网络的方法". CN104219247A. 已公布, 2014.12
+
+[7] 程小六, 吕伟, 刘华巍, 郭峰, **肖世良**, 石君, 袁晓兵. "一种野外运动目标精细化提取方法". CN104182976A. 已公布, 2014.12
