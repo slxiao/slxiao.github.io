@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Awards 
+title: Awards
 ---
 ***
 
-National Scholarship  2014-2015
+**National Scholarship**, 2014-2015
 
-Merit Student in University of Chinese Academy of Sciences 2013-2014
+Second Prize Dean Scholarship of SIMIT, Chinese Academy of Sciences, 2014-2015
 
-National Encouragement Scholarship 2008-2009
+Merit Student in University of Chinese Academy of Sciences, 2013-2014
 
-First Prize in Zhejiang Province Advanced Mathematics Competition 2007-2008
+National Encouragement Scholarship, 2008-2009
 
-Sun Hung Kai Properties Scholarship 2006-2010
+First Prize in Zhejiang Province Advanced Mathematics Competition, 2007-2008
 
-First Prize of Research & Innovation at Zhejiang University 2008-2009
+Sun Hung Kai Properties Scholarship, 2006-2010
 
-First Prize in 3rd Student Education Project, Zhejiang University 2008-2009
+First Prize of Research & Innovation at Zhejiang University, 2008-2009
+
+First Prize in 3rd Student Education Project, Zhejiang University, 2008-2009
