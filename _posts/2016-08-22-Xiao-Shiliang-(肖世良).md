@@ -1,6 +1,6 @@
 ***
 
-Hello, welcome to my homepage. My name is Xiao Shiliang (肖世良).
+Hello, welcome to my homepage.
 
 I received my Ph.D. degree at [Shanghai Institute of Microsystem and Information Technology (SIMIT)](http://www.sim.ac.cn/), [Chinese Adacemy of Sciences (CAS)](http://www.cas.cn/) in Jul, 2015. During the Ph.D. career, I was also with the [University of Chinese Academy of Sciences](http://www.gucas.ac.cn/). My advisor was Prof. [Yuan Xiaobing](http://sourcedb.cas.cn/sourcedb_sim_cas/cn/expert/200907/t20090701_1884357.html). Previously, I spent one year studying pre-doctoral courses at EE department of [University of Science and Technology of China](http://www.ustc.edu.cn/) from Sep, 2010 to Jul, 2011. Before that, I obtained my Bachelor degree at Department of [Electronic Information Technology and Instrument Science](http://www.cbeis.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english/) in Jun, 2010.
 
