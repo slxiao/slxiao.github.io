@@ -6,39 +6,39 @@ title: Publications
 Journal Papers
 -------------
 
- [1] **S. Xiao**, B. Li, and X. Yuan. Maximizing Precision for Energy-Efficient Data
- Aggregation in Wireless Sensor Networks with Lossy Links.  *Ad Hoc Networks*, Vol. 26, Mar. 2015, pp. 103-113. (SCI, EI)
+ [1] **S. Xiao**, B. Li, and X. Yuan. ["Maximizing Precision for Energy-Efficient Data
+ Aggregation in Wireless Sensor Networks with Lossy Links"](http://www.sciencedirect.com/science/article/pii/S1570870514002662).  *Ad Hoc Networks*, Vol. 26, Mar. 2015, pp. 103-113. (SCI, EI)
 
- [2] **S. Xiao**, J. Huang, L. Pan, Y. Cheng, and J. Liu, “On centralized and distributed algorithms for
-minimizing data aggregation time in duty-cycled wireless sensor networks”, *ACM/Springer Wireless
+ [2] **S. Xiao**, J. Huang, L. Pan, Y. Cheng, and J. Liu, [“On centralized and distributed algorithms for
+minimizing data aggregation time in duty-cycled wireless sensor networks”](http://link.springer.com/article/10.1007/s11276-014-0706-1), *ACM/Springer Wireless
 Networks**, vol. 20, no. 7, pp. 1729-1741, 2014. (SCI, EI)
 
- [3] **S. Xiao**, J. Pei, X. Chen, and W. Wang. “Minimum Latency Broadcast in the SINR model: A
-Parallel Routing and Scheduling Approach”, *IEEE Communications Letters*, vol. 18, no. 6, pp.
+ [3] **S. Xiao**, J. Pei, X. Chen, and W. Wang. [“Minimum Latency Broadcast in the SINR model: A
+Parallel Routing and Scheduling Approach”](http://ieeexplore.ieee.org/document/6799180/?arnumber=6799180&tag=1), *IEEE Communications Letters*, vol. 18, no. 6, pp.
 1027-1030, 2014. (SCI, EI)
 
- [4] **S. Xiao**, L. Pan, Y. Qiu, and X. Yuan. “Minimum Latency Aggregation Scheduling in Wireless
-Sensor Networks with Successive Interference Cancellation”, in press, *Ad Hoc & Sensor Wireless
+ [4] **S. Xiao**, L. Pan, Y. Qiu, and X. Yuan. [“Minimum Latency Aggregation Scheduling in Wireless
+Sensor Networks with Successive Interference Cancellation”](http://web.a.ebscohost.com/abstract?site=ehost&scope=site&jrnl=15519899&AN=102345163&h=LV%2f6tYx73oa6e%2f2C6lmBV%2brNHqJe48EQESGV3AHjKU3QHvmp%2bTGPJwLrbkptgNnsi0ONkvuXrlZ9zAk1PwSlfQ%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d15519899%26AN%3d102345163), in press, *Ad Hoc & Sensor Wireless
 Networks*, pp. 1-25, 2013. (SCI, EI)
 
- [5] **S. Xiao**, L. Pan, J. Liu, B. Li, and X. Yuan. “Distributed Broadcast with Minimum Latency in
-Asynchronous Wireless Sensor Networks under SINR-based Interference”, *International Journal of
+ [5] **S. Xiao**, L. Pan, J. Liu, B. Li, and X. Yuan. [“Distributed Broadcast with Minimum Latency in
+Asynchronous Wireless Sensor Networks under SINR-based Interference”](http://www.hindawi.com/journals/ijdsn/2013/506797/abs/), *International Journal of
 Distributed Sensor Networks*, vol. 2013, pp.1-12, 2013. (SCI, EI)
 
- [6] L. Pan, **S. Xiao**, X. Yuan and B. Li. “Joint Multiband Signal Detection and Cyclic Spectrum
-Estimation From Compressive Samples”, to appear, *EURASIP Journal on Wireless Communications
+ [6] L. Pan, **S. Xiao**, X. Yuan and B. Li. [“Joint Multiband Signal Detection and Cyclic Spectrum
+Estimation From Compressive Samples”](http://link.springer.com/article/10.1186/1687-1499-2014-218), to appear, *EURASIP Journal on Wireless Communications
 and Networking*. (SCI, EI)
 
- [7] L. Pan, **S. Xiao**, Y. Qiu, T. Zhang and X. Yuan. “An Adaptive Precoder for out-of-band Power
-Reduction in OFDM-based Cognitive Radio System”, *International Journal of Future Generation
+ [7] L. Pan, **S. Xiao**, Y. Qiu, T. Zhang and X. Yuan. [“An Adaptive Precoder for out-of-band Power
+Reduction in OFDM-based Cognitive Radio System”](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.641.5995&rep=rep1&type=pdf), *International Journal of Future Generation
 Communications and Networking*, vol. 7, no. 1, 2014. (EI)
 
- [8] J Huang, **S Xiao**, Q Zhou, F Guo, X You, H Li, B Li. "A Robust Feature Extraction Algorithm for the
- Classification of Acoustic Targets in Wild Environments", *Circuits, Systems,
+ [8] J Huang, **S Xiao**, Q Zhou, F Guo, X You, H Li, B Li. ["A Robust Feature Extraction Algorithm for the
+ Classification of Acoustic Targets in Wild Environments"](http://rd.springer.com/article/10.1007/s00034-014-9953-8), *Circuits, Systems,
  and Signal Processing*, 34 (7), 2395-2406. (SCI, EI)
 
- [9] L Pan, **S Xiao**, X Yuan. "Wideband Power Spectrum Sensing for Cognitive Radios Based on
- Sub-Nyquist Sampling", *Wireless Personal Communications*, 84 (2), 919-933. (SCI, EI)
+ [9] L Pan, **S Xiao**, X Yuan. ["Wideband Power Spectrum Sensing for Cognitive Radios Based on
+ Sub-Nyquist Sampling"](http://link.springer.com/article/10.1007/s11277-015-2668-8), *Wireless Personal Communications*, 84 (2), 919-933. (SCI, EI)
 
  Patents
 ------------
