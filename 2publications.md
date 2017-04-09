@@ -56,9 +56,3 @@ Communications and Networking*, vol. 7, no. 1, 2014. (EI)
 [6] 程勇博, **肖世良**, 钱汉望, 陈昕韡, 潘乐炳, 刘建坡, 袁晓兵. "一种无线多媒体传感器网络接入IP网络的方法". 发明专利, CN104219247A. 已公布, 2014.12
 
 [7] 程小六, 吕伟, 刘华巍, 郭峰, **肖世良**, 石君, 袁晓兵. "一种野外运动目标精细化提取方法". CN104182976A. 发明专利, 已公布, 2014.12
-
-[我的家乡红安永河马埠头](https://slxiao.github.io/presentations/MyHometownMabutou.pdf)
-
-[古色红安之永河马埠头村八房湾、永河椿树店村程家下屋、八里陡山村吴氏祠](http://www.redhongan.com/p/32803.html)
-
-[千岛湖自驾游记](http://club.autohome.com.cn/bbs/thread-o-200042-53263644-1.html)
