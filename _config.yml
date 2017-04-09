@@ -1,3 +1,4 @@
+encoding:         UTF-8
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -8,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Dr. Xiao Shiliang's Homepage
 tagline:          ''
-description:      Pleasure is learning and being able to practice often what one has learned. Happiness is having old friends coming from far away. --- by Confucius, ~500 B.C. 
+description:      Pleasure is learning and being able to practice often what one has learned. Happiness is having old friends coming from far away. --- by Confucius, ~500 B.C.
 url:              http://slxiao.github.io
 baseurl:          /
 
