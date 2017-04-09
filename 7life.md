@@ -6,9 +6,9 @@ title: Life
 My Hometown
 --------------------
 
-- [我的家乡红安永河马埠头](https://slxiao.github.io/presentations/MyHometownMabutou.pdf)
+- [鎴戠殑瀹朵埂绾㈠畨姘告渤椹煚澶碷(https://slxiao.github.io/presentations/MyHometownMabutou.pdf)
 
-- [古色红安之永河马埠头村八房湾、永河椿树店村程家下屋、八里陡山村吴氏祠](http://www.redhongan.com/p/32803.html)
+- [鍙よ壊绾㈠畨涔嬫案娌抽┈鍩犲ご鏉戝叓鎴挎咕銆佹案娌虫た鏍戝簵鏉戠▼瀹朵笅灞嬨�佸叓閲岄櫋灞辨潙鍚存皬绁燷(http://www.redhongan.com/p/32803.html)
 
-- [千岛湖自驾游记](http://club.autohome.com.cn/bbs/thread-o-200042-53263644-1.html)
+- [鍗冨矝婀栬嚜椹炬父璁癩(http://club.autohome.com.cn/bbs/thread-o-200042-53263644-1.html)
 
