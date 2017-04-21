@@ -10,8 +10,4 @@ My Hometown
 - [古色红安之永河马埠头村八房湾、永河椿树店村程家下屋、八里陡山村吴氏祠](http://www.redhongan.com/p/32803.html)
 - [红安马埠头村精准扶贫安置房](http://www.vzan.com/t/d-18076646?pageIndex=1)
 
-***
-My Travel
-----------------------
-- [千岛湖自驾游记](http://club.autohome.com.cn/bbs/thread-o-200042-53263644-1.html)
 
