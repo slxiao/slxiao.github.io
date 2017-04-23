@@ -16,7 +16,7 @@
 title: Dr. Xiao Shiliang(肖世良)'s Blog
 email: shliang.xiao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    学而时习之，不亦说乎；有朋自远方来，不亦乐乎。(Pleasure is learning and being able to practice often what one has learned. Happiness is having old friends coming from far away). --- by Confucius, ~500 B.C.
+    Pleasure is learning and being able to practice often-times what one has learned. Happiness is having old friends coming from far away(学而时习之，不亦说乎；有朋自远方来，不亦乐乎)---by Confucius, ~500 B.C.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://slxiao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShiliangXiao
