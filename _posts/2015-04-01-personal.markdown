@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 # 所获奖励
+- 2017 [Nokia Trainer Award](http://slxiao.github.io/imgs/trainer.jpg)
 - 博士研究生国家奖学金(National Scholarship, 全所通信百余名在读博士，仅2人获奖, 奖金人民币￥30000), 2014-2015
 - [中科院所长奖学金二等奖](http://www.sim.ac.cn/xwzx/zhxw/201506/t20150615_4373886.html)(Second Prize Dean Scholarship of SIMIT, Chinese Academy of Sciences), 2014-2015
 - 中国科学院大学三好学生(Merit Student in University of Chinese Academy of Sciences), 2013-2014
