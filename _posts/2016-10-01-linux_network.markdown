@@ -31,7 +31,7 @@ Follow the below steps:
 此时，host通过SSH访问VM的方式是：
 1. 在VBOX中，设置好端口转发规则:
 
-![端口转发](/imgs/forward.png)
+![端口转发](http://slxiao.github.io/imgs/forward.png)
 2. 在host中，执行命令: `ssh -p 2222 username@127.0.0.1`
 
 # Linux批量插入DNS的命令：
