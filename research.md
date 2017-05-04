@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "博士期间学术研究情况"
-date:   2015-06-01 10:00:00 +0800
-categories: jekyll update
+layout: page
+title: Research
+permalink: /research/
 ---
 
 # 会员服务(Membership)
@@ -73,3 +72,4 @@ Communications and Networking*, vol. 7, no. 1, 2014. (EI)
 [6] 程勇博, **肖世良**, 钱汉望, 陈昕韡, 潘乐炳, 刘建坡, 袁晓兵. "一种无线多媒体传感器网络接入IP网络的方法". 发明专利, CN104219247A. 已公布, 2014.12
 
 [7] 程小六, 吕伟, 刘华巍, 郭峰, **肖世良**, 石君, 袁晓兵. "一种野外运动目标精细化提取方法". CN104182976A. 发明专利, 已公布, 2014.12
+
