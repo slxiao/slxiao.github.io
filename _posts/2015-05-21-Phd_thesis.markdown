@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "博士论文全文和答辩材料(PhD Thesis)"
+title:  "面向数据聚合的无线传感器网络传输调度方法研究"
 date:   2015-05-21 10:00:00 +0800
 categories: jekyll update
 ---
