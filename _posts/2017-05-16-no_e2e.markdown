@@ -5,6 +5,6 @@ date:   2017-05-16 10:00:00 +0800
 categories: jekyll update
 ---
 
-Google工程师Mike Wacker在[Google Blogs](http://www.googblogs.com)上发表一个名为["Just Say No to More End-to-End Tests"](http://www.googblogs.com/just-say-no-to-more-end-to-end-tests/)的文章，狠狠地批判了围绕端到端测试(End-to-End Test, E2E, 即系统测试)的测试策略。
+Google工程师Mike Wacker在[Google Blogs](http://www.googblogs.com)上发表一篇名为["Just Say No to More End-to-End Tests"](http://www.googblogs.com/just-say-no-to-more-end-to-end-tests/)的文章，批判了**围绕端到端测试**(End-to-End Test, E2E, 即系统测试)的测试策略。
 
-文章行文流畅、条例清晰，读起来荡气回肠，引起深度共鸣。于是尝试把它译成中文。译完了才发现网上有一篇现成的(说明自己的文献调研工作没做好)。该译文是网友Sharling在[译言](http://g.yeeyan.org/)上发表的。译文[对更多的「端到端测试」说不](http://article.yeeyan.org/view/66324/453360/)，信达雅兼备，比本人的好。所以果断放弃自己的翻译，推荐阅读这篇译文。
+文章行文流畅、条理清晰，读起来荡气回肠，引起自己的深度共鸣。于是尝试把它译成中文。译完了才发现网上已经有现成的译文(说明自己的文献调研工作没做好)。该译文是网友Sharling在[译言](http://g.yeeyan.org/)上发表的。译文[对更多的「端到端测试」说不](http://article.yeeyan.org/view/66324/453360/)，信、达、雅兼备，比本人翻译地好。所以果断放弃自己的翻译，推荐阅读这篇译文。
