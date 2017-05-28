@@ -40,7 +40,7 @@ Since component logic is written in JavaScript instead of templates, you can eas
 - **Learn Once, Write Anywhere**.
 We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code. React can also render on the server using Node and power mobile apps using React Native.
 
-## Show UI in React
+## Create UI in React
 **React** is a **JavaScript** library. To learn React, basic knowledge of JavaScript is needed.
 
 ### ES6
@@ -148,3 +148,28 @@ If calling `bind` annoys you, there are two ways you can get around this. If you
 If you aren't using property initializer syntax, you can use an [arrow function](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions) in the callback.
 
 The problem with this syntax is that a different callback is created each time the `LoggingButton` renders. In most cases, this is fine. However, if this callback is passed as a prop to lower components, those components might do an extra re-rendering. We generally recommend binding in the constructor or using the property initializer syntax, to avoid this sort of performance problem.
+
+Elements are the smallest building blocks of React apps.
+
+An element describes what you want to see on the screen:
+
+```js
+const element = <h1>Hello, world</h1>;
+```
+
+Unlike browser DOM elements, React elements are plain objects, and are cheap to create. React DOM takes care of updating the DOM to match the React elements.
+
+>**Note:**
+>
+>>One might confuse elements with a more widely known concept of "components". We will introduce components in the [next section](/react/docs/components-and-props.html). Elements are what components are "made of", and we encourage you to read this section before jumping ahead.
+
+## Render UI in React
+
+Applications built with just React usually have a single root DOM node. If you are integrating React into an existing app, you may have as many isolated root DOM nodes as you like. To render a React element into a root DOM node, pass both the element and the  root DOM node to `ReactDOM.render()`:
+
+React elements are [immutable](https://en.wikipedia.org/wiki/Immutable_object). **Once you create an element, you can't change its children or attributes**. An element is like a single frame in a movie: it represents the UI at a certain point in time.
+With our knowledge so far, the only way to update the UI is to create a new element, and pass it to `ReactDOM.render()`.
+In practice, most React apps only call `ReactDOM.render()` once.
+
+React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
+In our experience, **thinking about how the UI should look at any given moment rather than how to change it over time eliminates a whole class of bugs**.
