@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  ""
-date:   2017-05-24 10:00:00 +0800
+title:  "React Learning Notes: the Basic Knowledge"
+date:   2017-05-28 10:00:00 +0800
 categories: jekyll update
 ---
 
