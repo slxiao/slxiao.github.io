@@ -29,7 +29,7 @@ categories: jekyll update
 </script>
 <div id="category"></div>
 
-# React for building UI
+## React for building UI
 > React: A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES (UI).
 
 - React is Declarative
@@ -40,13 +40,13 @@ Since component logic is written in JavaScript instead of templates, you can eas
 - Learn Once, Write Anywhere
 We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code. React can also render on the server using Node and power mobile apps using React Native.
 
-# Show UI in React
+## Show UI in React
 **React** is a **JavaScript** library. To learn React, basic knowledge of JavaScript is needed.
 
-## ES6
+### ES6
 **ES6**, known as the **next generation** of JavaScript, has some great new features such as arrow functions, classes, template literals, let, and const statements. React uses ES6 syntax in a sparing manner.
 
-## JSX
+### JSX
 **JSX**, a syntax extension to JavaScript, is considered as the recommended way in React to describe **what the UI should look like**. JSX produces React "elements". JSX has the following characteristics.
 
 - You can embed any JavaScript expression in JSX by *wrapping it in curly braces*.
@@ -70,7 +70,7 @@ We don't make assumptions about the rest of your technology stack, so you can de
 1. Since JSX is closer to JavaScript than HTML, React DOM uses `camelCase` property naming convention instead of HTML attribute names. For example, `class` becomes `className` in JSX, and `tabindex` becomes `tabIndex`.
 2. We recommend searching for a "Babel" syntax scheme for your editor of choice so that both ES6 and JSX code is properly highlighted.
 
-## Components
+### React Components
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 Conceptually, **components are like JavaScript functions**. They accept arbitrary inputs (called "**props**") and **return React elements describing what should appear on the screen**.
 
@@ -92,7 +92,7 @@ React is pretty flexible but it has a single strict rule:
 1. Always start component names with a capital letter. For example, `<div />` represents a DOM tag, but `<Welcome />` represents a component and requires `Welcome` to be in scope.
 2. **Components must return a single root element**. This is why we added a `<div>` to contain all the `<Welcome />` elements.
 
-## Convert a Function to a Class
+### Convert a Function to a Class
 You can convert a functional component like `Clock` to a class in five steps:
 
 1. Create an ES6 class with the same name that extends `React.Component`.
@@ -101,9 +101,9 @@ You can convert a functional component like `Clock` to a class in five steps:
 4. Replace `props` with `this.props` in the `render()` body.
 5. Delete the remaining empty function declaration.
 
-# Update UI in React
+## Update UI in React
 
-## Local State
+### Local State
 To update UI, one simple way is setting up a ticking clock.
 However, we may only want to update the specified part, not the whole UI. To implement this, we need to add "state" to the `Clock` component. **State is similar to props, but it is private and fully controlled by the component**.
 
@@ -126,7 +126,7 @@ It is not accessible to any component other than the one that owns and sets it. 
 
 In React apps, **whether a component is stateful or stateless is considered an implementation detail of the component that may change over time**. You can use stateless components inside stateful components, and vice versa.
 
-## Events
+### Events
 Handling events with React elements is very similar to handling events on DOM elements. There are some syntactic differences:
 
 - React events are named using camelCase, rather than lowercase.
