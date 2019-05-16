@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "PyConChina2017: Better Simulator for Better Software Testing"
+date:   2017-10-20 16:00:00 +0800
+categories: jekyll update
+---
+
+# 欢迎关注个人公众号 **测试不将就**
+
+![公众号](../images/wechat.png)
