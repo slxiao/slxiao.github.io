@@ -1,33 +1,113 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Shelwin Xiao's Blog |公众号'测试不将就'
-email: shliang.xiao@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-    Pleasure is learning and being able to practice often-times what one has learned. Happiness is having old friends coming from far away---by Confucius, ~500 B.C.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://slxiao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  slxiao
+title: 测试不将就
+SEOTitle: 测试不将就 | awesometest
+header-img: img/home-bg.jpg
+email: huxpro@gmail.com
+description: "插上自动化/AI的翅膀，软件测试也能高大上。聚焦软件测试，测试开发，Python开发，持续集成等领域，打造高质量软件工程。"
+keyword: "软件测试, 自动化测试, AI测试, 测试开发, Python, 持续集成, DevOps, 程序人生"
+url: "https://slxiao.github.io/"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+# Publish posts or collection documents with a future date.
+future: true
+
+# SNS settings
+RSS: false
+weibo_username:     awesometest
+zhihu_username:     awesometest
+github_username:    slxiao
+twitter_username:   awesometest
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
+
+
 
 # Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN  
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-kramwdown:
-      parse_block_html: true
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+
+
+# Disqus settings
+disqus_username: xiaoowen
+
+# Netease settings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics 
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "微信公众号《测试不将就》<br>分享自动化/AI测试，Python开发，持续集成，DevOps，职业发展等领域干货文章。"
+sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
+
+
+
+# Friends
+friends: [
+    {
+        title: "CSDN博客",
+        href: "https://blog.csdn.net/zjuxsl"
+    },
+    {
+        title: "知乎专栏",
+        href: "https://zhuanlan.zhihu.com/taforum"
+    }
+]

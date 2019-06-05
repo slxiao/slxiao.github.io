@@ -1,8 +1,0 @@
----
-layout: post
-title:  "PyConChina2017: Better Simulator for Better Software Testing"
-date:   2017-10-20 16:00:00 +0800
-categories: jekyll update
----
-
-["PyConChina2017: Better Simulator for Better Software Testing"](http://slxiao.github.io/presentations/pycon2017.pdf)
