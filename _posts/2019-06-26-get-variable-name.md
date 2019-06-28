@@ -6,6 +6,7 @@ author: "肖哥shelwin"
 header-img: "img/ta-summary1.jpg"
 header-mask: 0.4
 tags:
+  - Python
 ---
 ## 初步尝试
 今天我们探讨Python中一个看似很简单，实则并不容易的问题。这个问题是：如何获得变量的名字？
