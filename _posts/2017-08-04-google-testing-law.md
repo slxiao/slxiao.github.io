@@ -2,7 +2,7 @@
 layout: post
 title: "The Google Testing Law (谷歌测试定律)"
 subtitle: "测试金字塔"
-author: "肖哥"
+author: "肖哥shelwin"
 header-img: "img/google.jpg"
 header-mask: 0.4
 tags:

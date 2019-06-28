@@ -2,7 +2,7 @@
 layout: post
 title: "在DevOps蓬勃发展的时代，软件测试还有没有价值？"
 subtitle: ""
-author: "肖哥"
+author: "肖哥shelwin"
 header-img: "img/devops.jpg"
 header-mask: 0.4
 tags:

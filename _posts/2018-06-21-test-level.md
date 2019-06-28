@@ -2,7 +2,7 @@
 layout: post
 title: "软件测试分级理论"
 subtitle: ""
-author: "肖哥"
+author: "肖哥shelwin"
 header-img: "img/test-level.jpg"
 header-mask: 0.4
 tags:
