@@ -3,8 +3,8 @@ title: 测试不将就
 SEOTitle: 测试不将就 | awesometest
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "插上自动化/AI的翅膀，软件测试也能高大上。聚焦软件测试，测试开发，Python开发，持续集成等领域，打造高质量软件工程。"
-keyword: "软件测试, 自动化测试, AI测试, 测试开发, Python, 持续集成, DevOps, 程序人生"
+description: "肖哥shelwin, 公众号《测试不将就》出品人，一个游走在开发/测试/DevOps/敏捷的高质量软件工程实践者和推动者"
+keyword: "软件测试, 自动化测试, AI测试, 持续集成, 软件工程实践, Python编程"
 url: "https://slxiao.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -78,7 +78,7 @@ ga_domain: https://slxiao.github.io/
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "微信公众号《测试不将就》<br>分享自动化/AI测试，Python开发，持续集成，DevOps，职业发展等领域干货文章。"
+sidebar-about-description: "肖哥shelwin<br>公众号《测试不将就》<br>一个游走在开发/测试/DevOps/敏捷的高质量软件工程实践者和推动者"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

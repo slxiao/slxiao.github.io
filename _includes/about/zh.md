@@ -1,31 +1,70 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+# 我是谁？
+大家好，我是肖哥，英文名shelwin。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+自从研究所毕业加入现在这家公司之后，我经历过研发工程师，研发专家，技术leader，敏捷教练等多个职位，既做技术，也涉及一些管理。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。目前在 [Facebook](https://www.facebook.com/) 写 [Reason](https://reasonml.github.io/) 与 [Messenger.com](http://messenger.com/) ，曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+## 写博客的目的？
+在这个快速革新的时代，我所在的部门和个人的职务一直都处于变化之中。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](https://zhuanlan.zhihu.com/p/21280918)。 
+唯一不变的是我的工作重心，那就是打造高质量的软件产品。这可以说是一个软件逐渐占支配地位的世界。大家的工作和生活处处都受软件影响，并且这种影响力在持续增加。然而，任何软件想要发挥影响力，有一个基本前提，即它需要是高质量的。质量是软件的生命。
+
+打造高质量软件需要从架构/开发/测试/持续集成/运维/产品/管理等众多领域入手，是一个系统工程。在多年的工作经历中，我有幸在这一工程的多个领域工作过。另外，我喜欢观察，思考和总结。
+
+开博客的目的，就是将我关于提升软件质量的所思所想，所作所为分享出来。"术业有专攻"。
+
+## 博客的主要内容？
+
+一，自动化测试。大家也看到了，这个博客的名字是"测试不将就"。"不将就"是不凑和，不得过且过的意思，是一个褒义词。为什么要在软件测试中提倡"不将就"精神呢？就是希望大家能够把看似平凡的测试工作，做得不平凡。虽然软件测试常被认为是一个准入门槛低的工作，但是这不意味它容易。
 
 
-##### Talks
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
+相反，把测试真正做好是非常难的，尤其是在业务快速升级，敏捷和DevOps大行其道的时代。做好测试工作需要具备多方面能力，而我的分享会以自动化测试为主。这里说明一下，作为广义自动化测试的一环，面向开发的单元测试也是我分享的对象。另外，由于个人兴趣，我的分享也会涉及AI测试。
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+
+
+二，持续集成(CI)。要提升软件测试对开发团队的影响力，将测试与CI结合是一个重要途径。对于一个有一定规模的软件研发团队来说，CI堪称团队的"发动机"，其重要性不言而喻。
+
+
+
+将软件测试融入CI，可以实现软件测试的"左移"，即让每一个开发者在每一次提交代码时都执行自动化测试。这对于软件质量的提升至关重要。当然，CI的内涵还有更多。由于我个人很喜欢这块工作，因此CI也会是我分享的内容。
+
+
+
+三，软件工程实践。不知道大家有没有注意到任正非今年年初关于全面提升华为软件工程能力与实践的那封公开信。在我看来这是一件正本清源，回归初心的事情。流行的技术架构，编程语言，测试工具，只是软件工程浩瀚森林中的几颗树木而已。
+
+
+
+提升软件质量，还需要关注具体技术之外的部分。为此，我在这一块的分享将包括但不限于敏捷，最佳实践，持续改进，职业能力提升等。另外，对于时不时阅读IEEE TSE/ICSE论文的我来说，还会分享一些有意思的软件工程学术界最新研究成果。这部分内容在其他博客上可能比较难看到。
+
+
+
+四，Python编程。其实我一度在想，假如开的是一个时髦的Python博客，涨粉速度应该比现在快一些吧。和很多人一样，Python也是我最喜欢的编程语言。虽然刚工作就接触了Python并且一直使用到现在，但是我对Python依然有种相见恨晚的感觉。
+
+
+
+Python有多好用？你懂的。有人说，现在是“学好Python，走遍天下都不怕”的时代。而对于我来说，学点Python，即使不用来做自动化测试或CI，也可以用来给日常工作甚至生活带来一些便利和快乐。
+
+
+
+
+从专业角度讲，这个博客将分享以上四类内容。这四块内容既各自独立，相互之间又有联系。在我看来，它们之间最大的交集是自动化。很多时候，自动化既是一种目标，也是一种手段。这背后的逻辑我暂且不展开，未来大家会慢慢看到的。我为博客选取的头像，展现的就是"拥抱自动化"的意思。
+
+
+
+另外，作为个人博客，我可能还会聊聊少量专业领域之外的东西。从内容分类可以看到，测试只是我分享的一部分，而不是全部。或许这与博客的名字并不十分契合，但是却契合我的个人经历，也都与软件测试的对象，即软件质量息息相关。
+
+## 博客目标受众?
+
+基于以上所定义的内容，我的博客的目标受众，既包括做软件测试工作的同学，也包括软件工程领域里所有关心软件质量的朋友们。另外，脱离开发效率谈论软件质量是不切实际的，因此关注软件工程生产力的朋友也会在这里体会到价值。
+
+
+## 总结?
+总结一下，这里我把"我是谁?"，"这是一个什么样的博客?"这两个问题简单回答了下，相当于给大家做了个迟到的自我介绍吧。希望我写的文章能够得到大家的认可，谢谢大家。
+
+欢迎扫描下方二维码，添加我的同名微信公众号:
+
+![公众号](../img/wechat-public.png)
+
+欢迎扫描下方二维码，添加我的个人微信，我们可以进行更多交流:
+
+![肖哥shelwin](../img/wechat-shelwin.jpg)
