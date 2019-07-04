@@ -3,7 +3,7 @@ layout: post
 title: "Python之谜：如何获取变量名？"
 subtitle: ""
 author: "肖哥shelwin"
-header-img: "img/ta-summary1.jpg"
+header-img: "img/5.jpg"
 header-mask: 0.4
 tags:
   - Python
