@@ -9,7 +9,7 @@ tags:
   - 持续集成
 ---
 
-在《[持续集成的初心]()》一文中，我们讲到持续集成(Continuous Integration, CI)是由开发者提交代码改动所触发的，目的是验证代码改动是否能够合入(Merge)到主干(Master)的软件活动。
+在《[持续集成的初心](https://slxiao.github.io/2019/01/16/CI-start/)》一文中，我们讲到持续集成(Continuous Integration, CI)是由开发者提交代码改动所触发的，目的是验证代码改动是否能够合入(Merge)到主干(Master)的软件活动。
 
 为了实现这一目的，持续集成一般包含两个阶段，那就是代码改动合入前的持续集成(Pre-merge CI)和代码改动合入后的持续集成(Post-merge CI)。
 
