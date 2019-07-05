@@ -69,3 +69,7 @@ DevOps引起了软件行业的普遍重视，各种各样关于DevOps的方法�
 - **用户不会为低质量的软件买单**
 
 你怎么看？
+
+> 我是[肖哥shelwin](https://slxiao.github.io/about/)，一个高质量软件工程实践者和推动者。欢迎扫描下方二维码，添加我的个人公众号[测试不将就](https://slxiao.github.io/img/wechat-public.png)，获得更多**自动化测试, 持续集成, 软件工程实践, Python编程**等领域原创文章。
+
+![公众号](https://slxiao.github.io/img/wechat-public.png)
